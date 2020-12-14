@@ -1,0 +1,18 @@
+﻿  clustering.cpp
+  dimensional_reduction.cpp
+  Implement_OU1_file.cpp
+d:\vc6_c++_practice\project\project1\project1\implement_ou1_file.cpp(25): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+d:\vc6_c++_practice\project\project1\project1\implement_ou1_file.cpp(26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+  non_dimensionalize.cpp
+  Project1.cpp
+  Reading_dataFile.cpp
+d:\vc6_c++_practice\project\project1\project1\reading_datafile.cpp(70): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+d:\vc6_c++_practice\project\project1\project1\reading_datafile.cpp(71): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+  csvDataFileReading.cpp
+  trainingset.cpp
+  user_data.cpp
+  Write_to_csv.cpp

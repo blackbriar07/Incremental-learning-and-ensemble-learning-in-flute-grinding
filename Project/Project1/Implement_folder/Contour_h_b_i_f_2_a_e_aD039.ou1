@@ -1,0 +1,32 @@
+Direction of Cut Is Right = true
+End Mill Open = true
+Diameter = 3.869
+Pass = 6
+Helix Angle = 13.000
+Base Distance For Rake Angle Measurement = 0.232
+Number of Teeth = 6
+====================================
+Wheel Diameter = 124.200
+Profile Angle = 90.000
+Radius 1 = 0.000
+Radius 2 = 0.000
+====================================
+Rake Angle = 20.000 (0.020) 20.000, OK
+Circular Land = 1.500 (0.002) 1.500, OK
+Small Core Diameter = 1.838 (0.002) 1.838, OK
+====================================
+Wheel Setting Angle = 1.488
+Minimum Wheel Width = 0.928
+Wheel Displacement = -1.118
+Distance Between Axes = 61.717
+============================================= ROHIT
+Wheel Setting Angle = 9.65902158884293
+Minimum Wheel Width = 1.4632559765816189
+Wheel Displacement = -1.9142185964388918
+Distance Between Axes = 62.57815215952106
+Inside cluster2============================================= ROHIT
+Wheel Setting Angle = 9.65902158884293
+Minimum Wheel Width = 1.4632559765816189
+Wheel Displacement = -1.9142185964388918
+Distance Between Axes = 62.57815215952106
+Inside cluster2
